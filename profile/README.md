@@ -46,7 +46,7 @@ bam install @nodusjs/x
 Inclua o seguinte script em seu HTML:
 
 ```html
-<script src="https://cdn.nodusjs.org/@nodusjs/x/latest/nodusjs-x.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@nodusjs/x@latest/dist/x.js" async></script>
 ```
 
 ## 🛠️ Uso
