@@ -44,13 +44,13 @@ bam install @nodusjs/x
 ### Usando CDN (JavaScript)
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@nodusjs/x@latest/dist/x.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/@nodusjs/x@0.5.0/dist/x.iife.js" async></script>
 ```
 
 ### Usando CDN (CSS)
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@nodusjs/x@latest/dist/x.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@nodusjs/x@0.5.0/dist/x.css">
 ```
 
 > 💡 **Dica**: Para ver exemplos funcionando, acesse o playground no CodePen: [https://codepen.io/nodusjs](https://codepen.io/nodusjs)
